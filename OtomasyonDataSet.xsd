@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="OtomasyonDataSet" targetNamespace="http://tempuri.org/OtomasyonDataSet.xsd" xmlns:mstns="http://tempuri.org/OtomasyonDataSet.xsd" xmlns="http://tempuri.org/OtomasyonDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="cs1" IsAppSettingsProperty="true" Modifier="Assembly" Name="cs1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Otomasyon.Properties.Settings.GlobalReference.Default.cs1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_KASAHAREKETLERITableAdapter" GeneratorDataComponentClassName="VW_KASAHAREKETLERITableAdapter" Name="VW_KASAHAREKETLERI" UserDataComponentName="VW_KASAHAREKETLERITableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cs1 (Settings)" DbObjectName="Otomasyon.dbo.VW_KASAHAREKETLERI" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Id, KasaId, CariId, CariKodu, CariAdi, BelgeNo, EvrakTuru, EvrakID, Tarih, GIRIS, CIKIS, Aciklama FROM dbo.VW_KASAHAREKETLERI</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Id" DataSetColumn="Id" />
+              <Mapping SourceColumn="KasaId" DataSetColumn="KasaId" />
+              <Mapping SourceColumn="CariId" DataSetColumn="CariId" />
+              <Mapping SourceColumn="CariKodu" DataSetColumn="CariKodu" />
+              <Mapping SourceColumn="CariAdi" DataSetColumn="CariAdi" />
+              <Mapping SourceColumn="BelgeNo" DataSetColumn="BelgeNo" />
+              <Mapping SourceColumn="EvrakTuru" DataSetColumn="EvrakTuru" />
+              <Mapping SourceColumn="EvrakID" DataSetColumn="EvrakID" />
+              <Mapping SourceColumn="Tarih" DataSetColumn="Tarih" />
+              <Mapping SourceColumn="GIRIS" DataSetColumn="GIRIS" />
+              <Mapping SourceColumn="CIKIS" DataSetColumn="CIKIS" />
+              <Mapping SourceColumn="Aciklama" DataSetColumn="Aciklama" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="OtomasyonDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="OtomasyonDataSet" msprop:Generator_UserDSName="OtomasyonDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VW_KASAHAREKETLERI" msprop:Generator_TableClassName="VW_KASAHAREKETLERIDataTable" msprop:Generator_TableVarName="tableVW_KASAHAREKETLERI" msprop:Generator_RowChangedName="VW_KASAHAREKETLERIRowChanged" msprop:Generator_TablePropName="VW_KASAHAREKETLERI" msprop:Generator_RowDeletingName="VW_KASAHAREKETLERIRowDeleting" msprop:Generator_RowChangingName="VW_KASAHAREKETLERIRowChanging" msprop:Generator_RowEvHandlerName="VW_KASAHAREKETLERIRowChangeEventHandler" msprop:Generator_RowDeletedName="VW_KASAHAREKETLERIRowDeleted" msprop:Generator_RowClassName="VW_KASAHAREKETLERIRow" msprop:Generator_UserTableName="VW_KASAHAREKETLERI" msprop:Generator_RowEvArgName="VW_KASAHAREKETLERIRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:int" minOccurs="0" />
+              <xs:element name="KasaId" msprop:Generator_ColumnVarNameInTable="columnKasaId" msprop:Generator_ColumnPropNameInRow="KasaId" msprop:Generator_ColumnPropNameInTable="KasaIdColumn" msprop:Generator_UserColumnName="KasaId" type="xs:int" minOccurs="0" />
+              <xs:element name="CariId" msprop:Generator_ColumnVarNameInTable="columnCariId" msprop:Generator_ColumnPropNameInRow="CariId" msprop:Generator_ColumnPropNameInTable="CariIdColumn" msprop:Generator_UserColumnName="CariId" type="xs:int" minOccurs="0" />
+              <xs:element name="CariKodu" msprop:Generator_ColumnVarNameInTable="columnCariKodu" msprop:Generator_ColumnPropNameInRow="CariKodu" msprop:Generator_ColumnPropNameInTable="CariKoduColumn" msprop:Generator_UserColumnName="CariKodu" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CariAdi" msprop:Generator_ColumnVarNameInTable="columnCariAdi" msprop:Generator_ColumnPropNameInRow="CariAdi" msprop:Generator_ColumnPropNameInTable="CariAdiColumn" msprop:Generator_UserColumnName="CariAdi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="BelgeNo" msprop:Generator_ColumnVarNameInTable="columnBelgeNo" msprop:Generator_ColumnPropNameInRow="BelgeNo" msprop:Generator_ColumnPropNameInTable="BelgeNoColumn" msprop:Generator_UserColumnName="BelgeNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EvrakTuru" msprop:Generator_ColumnVarNameInTable="columnEvrakTuru" msprop:Generator_ColumnPropNameInRow="EvrakTuru" msprop:Generator_ColumnPropNameInTable="EvrakTuruColumn" msprop:Generator_UserColumnName="EvrakTuru" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EvrakID" msprop:Generator_ColumnVarNameInTable="columnEvrakID" msprop:Generator_ColumnPropNameInRow="EvrakID" msprop:Generator_ColumnPropNameInTable="EvrakIDColumn" msprop:Generator_UserColumnName="EvrakID" type="xs:int" minOccurs="0" />
+              <xs:element name="Tarih" msprop:Generator_ColumnVarNameInTable="columnTarih" msprop:Generator_ColumnPropNameInRow="Tarih" msprop:Generator_ColumnPropNameInTable="TarihColumn" msprop:Generator_UserColumnName="Tarih" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="GIRIS" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnGIRIS" msprop:Generator_ColumnPropNameInRow="GIRIS" msprop:Generator_ColumnPropNameInTable="GIRISColumn" msprop:Generator_UserColumnName="GIRIS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CIKIS" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnCIKIS" msprop:Generator_ColumnPropNameInRow="CIKIS" msprop:Generator_ColumnPropNameInTable="CIKISColumn" msprop:Generator_UserColumnName="CIKIS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Aciklama" msprop:Generator_ColumnVarNameInTable="columnAciklama" msprop:Generator_ColumnPropNameInRow="Aciklama" msprop:Generator_ColumnPropNameInTable="AciklamaColumn" msprop:Generator_UserColumnName="Aciklama" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:VW_KASAHAREKETLERI" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

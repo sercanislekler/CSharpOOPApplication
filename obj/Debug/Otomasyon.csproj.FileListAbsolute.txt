@@ -1,0 +1,322 @@
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.AnaForm.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.FrmAyar.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.FrmLogin.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Banka.frmBankaAcilisKarti.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Banka.frmBankaHareketleri.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Banka.frmBankaIslemleri.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Banka.frmParaTransfer.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Banka.frmBankaListesi.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Cari.frmCariAcilisKarti.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Cari.frmCariGruplari.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Cari.frmCariHareketleri.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Cari.frmCariListesi.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Fatura.frmFaturaListesi.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Fatura.frmSatisFaturasi.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.frmKasaAcilisKarti.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.frmKasaDevirIslemKarti.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.frmKasaHareketleri.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.frmKasaListesi.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.frmKasaTahsilatOdeme.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Stok.frmStokGruplari.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Stok.frmStokKarti.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Stok.frmStokListesi.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe.licenses
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Analiz.StokRapor.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Analiz.SatisRapor.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.XtraForm1.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Satis.NakitSatis.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Analiz.KasaRapor.resources
+C:\Users\Sercan\Documents\Visual Studio 2013\Projects\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Analiz.KurBilgileri.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.AnaForm.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Analiz.KasaRapor.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Analiz.KurBilgileri.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Analiz.SatisRapor.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Analiz.StokRapor.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.FrmAyar.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.FrmLogin.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.XtraForm1.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Satis.NakitSatis.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Banka.frmBankaAcilisKarti.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Banka.frmBankaHareketleri.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Banka.frmBankaIslemleri.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Banka.frmParaTransfer.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Banka.frmBankaListesi.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Cari.frmCariAcilisKarti.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Cari.frmCariGruplari.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Cari.frmCariHareketleri.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Cari.frmCariListesi.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Fatura.frmFaturaListesi.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Fatura.frmSatisFaturasi.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.frmKasaAcilisKarti.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.frmKasaDevirIslemKarti.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.frmKasaHareketleri.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.frmKasaListesi.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Kasa.frmKasaTahsilatOdeme.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Stok.frmStokGruplari.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Stok.frmStokKarti.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Stok.frmStokListesi.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe.licenses
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Dashboard.v15.1.Core.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Dashboard.v15.1.Win.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.ExpressApp.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.ExpressApp.Win.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.ExpressApp.Xpo.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Map.v15.1.Core.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Persistent.Base.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraGauges.v15.1.Presets.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraGauges.v15.1.Win.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraMap.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraScheduler.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraScheduler.v15.1.Reporting.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Mvvm.v15.1.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Dashboard.v15.1.Core.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Dashboard.v15.1.Win.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.ExpressApp.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.ExpressApp.Win.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.ExpressApp.Xpo.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Map.v15.1.Core.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Persistent.Base.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraGauges.v15.1.Presets.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraGauges.v15.1.Win.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraMap.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraScheduler.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraScheduler.v15.1.Reporting.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\DevExpress.Mvvm.v15.1.xml
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Dashboard.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Dashboard.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Dashboard.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Dashboard.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Dashboard.v15.1.Win.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Dashboard.v15.1.Win.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Dashboard.v15.1.Win.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Dashboard.v15.1.Win.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.ExpressApp.Win.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.ExpressApp.Win.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.ExpressApp.Win.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.ExpressApp.Win.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Map.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Map.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Map.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Map.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraGauges.v15.1.Presets.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraGauges.v15.1.Presets.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Presets.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Presets.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Reporting.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Reporting.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Reporting.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Reporting.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\sercan\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Modul_Fatura.frmFaturaGiris.resources

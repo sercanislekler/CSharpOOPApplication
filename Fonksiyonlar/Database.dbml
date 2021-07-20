@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Otomasyon2" Class="DatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=Otomasyon2;Integrated Security=True" SettingsObjectName="Otomasyon.Properties.Settings" SettingsPropertyName="Otomasyon2ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Tbl_Stoklar" Member="Tbl_Stoklar">
+    <Type Name="Tbl_Stoklar">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Barkod" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="StokKodu" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="StokAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StokPaket" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StokMiktar" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StokBirim" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="UreticiFirmaId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KdvDahil" Type="System.String" DbType="NVarChar(1)" CanBeNull="true" />
+      <Column Name="IskontoDahil" Type="System.String" DbType="NVarChar(1)" CanBeNull="true" />
+      <Column Name="IskontoOran" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="IndirimliFiyat" Type="System.Decimal" DbType="Decimal(8,2)" CanBeNull="true" />
+      <Column Name="IndirimMiktari" Type="System.Decimal" DbType="Decimal(8,2)" CanBeNull="true" />
+      <Column Name="StokKategoriId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StokKategori" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StokMaksSev" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StokKrtkSev" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StokGrup" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UreticiFirmaKod" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UreticiFirma" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StokAlisFiyat" Type="System.Decimal" DbType="Decimal(8,2)" CanBeNull="true" />
+      <Column Name="StokSatisFiyat" Type="System.Decimal" DbType="Decimal(8,2)" CanBeNull="true" />
+      <Column Name="StokAlisKDV" Type="System.Decimal" DbType="Decimal(8,2)" CanBeNull="true" />
+      <Column Name="StokSatisKDV" Type="System.Decimal" DbType="Decimal(8,2)" CanBeNull="true" />
+      <Column Name="StokGrupID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StokResim" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="StokSaveUser" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StokSaveDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="StokEditUser" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StokEditTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
